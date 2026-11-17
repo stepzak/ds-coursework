@@ -1,0 +1,9 @@
+<View>
+  <Header value="Определите тональность предложения по codebook."/>
+  <Text name="review" value="$text"/>
+  <Choices name="sentiment" toName="review" choice="single" showInline="true" required="true">
+    <Choice value="Negative"/>
+    <Choice value="Positive"/>
+  </Choices>
+  <TextArea name="comment" toName="review" placeholder="Пояснение к спорному случаю или причина исключения" rows="3"/>
+</View>
