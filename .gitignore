@@ -24,3 +24,5 @@ data/processed/pets_masks/
 /reports/preparation.md
 .DS_Store
 *.egg-info/
+# Derived from versioned Label Studio RLE exports
+data/processed/handmade/masks/
