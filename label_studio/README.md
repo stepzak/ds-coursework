@@ -25,3 +25,14 @@ docker compose up -d
 4. Импортировать в проекты соответствующие `*_tasks.json`.
 
 > Работа и экспорт описаны в codebook
+
+## Первая партия разметки
+
+Экспорты находятся в [annotations/initial/](annotations/initial/).
+
+| Датасет | С З                                                      | А М                                                      |
+|---|----------------------------------------------------------|----------------------------------------------------------|
+| Отзывы | [sentiment-1.json](annotations/initial/sentiment-1.json) | [sentiment-2.json](annotations/initial/sentiment-2.json) |
+| Животные | [pets-1.json](annotations/initial/pets-1.json)           | [pets-2.json](annotations/initial/pets-2.json)           |
+
+JSON содержат сохранённые ответы и время разметки, а для фотографий – RLE-маски. Объекты сопоставляются по `object_id`, версия кодбука – 1.0.
