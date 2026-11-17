@@ -1,0 +1,47 @@
+id,source,line_start,line_end,text,label,normalized,chars,words,split,mixed_cues,reason
+amazon_0744,amazon,744,744,"Bought mainly for the charger, which broke soon after purchasing.",0,bought mainly for the charger which broke soon after purchasing,65,10,validation,False,stratified_sample
+amazon_0152,amazon,152,152,"Audio Quality is poor, very poor.",0,audio quality is poor very poor,33,6,train,False,stratified_sample
+amazon_0768,amazon,768,768,"I really wanted the Plantronics 510 to be the right one, but it has too many issues for me.The good",0,i really wanted the plantronics 510 to be the right one but it has too many issues for me the good,99,21,train,False,stratified_sample
+amazon_0593,amazon,593,593,THey are so cool!,1,they are so cool,17,4,validation,False,stratified_sample
+amazon_0883,amazon,883,883,The only good thing was that it fits comfortably on small ears.,1,the only good thing was that it fits comfortably on small ears,63,12,train,False,stratified_sample
+amazon_0246,amazon,246,246,Worth every penny.,1,worth every penny,18,3,train,False,stratified_sample
+imdb_0198,imdb,198,198,This movie is BAD.  ,0,this movie is bad,20,4,validation,False,stratified_sample
+imdb_0489,imdb,489,489,"I particularly remember my senses being assaulted by strident cords of music that would blare out with very little warning, and even less meaning.  ",0,i particularly remember my senses being assaulted by strident cords of music that would blare out with very little warning and even less meaning,148,24,test,False,stratified_sample
+imdb_0068,imdb,68,68,There was absolutely no warmth or charm to these scenes or characters.  ,0,there was absolutely no warmth or charm to these scenes or characters,72,12,train,False,stratified_sample
+imdb_0450,imdb,450,450,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  ",1,i won t say any more i don t like spoilers so i don t want to be one but i believe this film is worth your time,118,25,train,False,stratified_sample
+imdb_0695,imdb,695,695,You wont regret it!  ,1,you wont regret it,21,4,validation,False,stratified_sample
+imdb_0661,imdb,661,661,"This is a witty and delightful adaptation of the Dr Seuss book, brilliantly animated by UPA's finest and thoroughly deserving of its Academy Award.  ",1,this is a witty and delightful adaptation of the dr seuss book brilliantly animated by upa s finest and thoroughly deserving of its academy award,149,24,train,False,stratified_sample
+yelp_0970,yelp,970,970,"I don't know what the big deal is about this place, but I won't be back ""ya'all"".",0,i don t know what the big deal is about this place but i won t be back ya all,81,17,train,False,stratified_sample
+yelp_0061,yelp,61,61,At least think to refill my water before I struggle to wave you over for 10 minutes.,0,at least think to refill my water before i struggle to wave you over for 10 minutes,84,17,train,False,stratified_sample
+yelp_0849,yelp,849,849,"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",0,to my disbelief each dish qualified as the worst version of these foods i have ever tasted,92,17,test,False,stratified_sample
+yelp_0358,yelp,358,358,As always the evening was wonderful and the food delicious!,1,as always the evening was wonderful and the food delicious,59,10,train,False,stratified_sample
+yelp_0754,yelp,754,754,We were sat right on time and our server from the get go was FANTASTIC!,1,we were sat right on time and our server from the get go was fantastic,71,15,train,False,stratified_sample
+yelp_0797,yelp,797,797,"The chips and salsa were really good, the salsa was very fresh.",1,the chips and salsa were really good the salsa was very fresh,63,12,train,False,stratified_sample
+amazon_0342,amazon,342,342,Was not happy.,0,was not happy,14,3,validation,True,mixed_lexical_cues
+yelp_0099,yelp,99,99,It was not good.,0,it was not good,16,4,train,True,mixed_lexical_cues
+imdb_0668,imdb,668,668,It is not good.  ,0,it is not good,17,4,train,True,mixed_lexical_cues
+yelp_0002,yelp,2,2,Crust is not good.,0,crust is not good,18,4,validation,True,mixed_lexical_cues
+yelp_0217,yelp,217,217,Soggy and not good.,0,soggy and not good,19,4,train,True,mixed_lexical_cues
+amazon_0082,amazon,82,82,Not a good bargain.,0,not a good bargain,19,4,train,True,mixed_lexical_cues
+yelp_0600,yelp,600,600,Not good for the money.,0,not good for the money,23,5,train,True,mixed_lexical_cues
+amazon_0827,amazon,827,827,Not as good as I had hoped.,0,not as good as i had hoped,27,7,train,True,mixed_lexical_cues
+amazon_0849,amazon,849,849,Not good enough for the price.,0,not good enough for the price,30,6,train,True,mixed_lexical_cues
+amazon_0143,amazon,143,143,I was not happy with this item.,0,i was not happy with this item,31,7,train,True,mixed_lexical_cues
+yelp_0780,yelp,780,780,"Unfortunately, it was not good.",0,unfortunately it was not good,31,5,train,True,mixed_lexical_cues
+imdb_0454,imdb,454,454,Not even good for camp value!  ,0,not even good for camp value,31,6,train,True,mixed_lexical_cues
+yelp_0310,yelp,310,310,I did not expect this to be so good!,1,i did not expect this to be so good,36,9,train,True,mixed_lexical_cues
+yelp_0484,yelp,484,484,The selection of food was not the best.,0,the selection of food was not the best,39,8,train,True,mixed_lexical_cues
+amazon_0365,amazon,365,365,It definitely was not as good as my S11.,1,it definitely was not as good as my s11,40,9,validation,True,mixed_lexical_cues
+amazon_0456,amazon,456,456,Not good when wearing a hat or sunglasses.,0,not good when wearing a hat or sunglasses,42,8,validation,True,mixed_lexical_cues
+yelp_0760,yelp,760,760,The service was poor and thats being nice.,0,the service was poor and thats being nice,42,8,test,True,mixed_lexical_cues
+yelp_0944,yelp,944,944,Not good by any stretch of the imagination.,0,not good by any stretch of the imagination,43,8,train,True,mixed_lexical_cues
+imdb_0071,imdb,71,71,"And, quite honestly, often its not very good.  ",0,and quite honestly often its not very good,47,8,train,True,mixed_lexical_cues
+amazon_0052,amazon,52,52,good protection and does not make phone too bulky.,1,good protection and does not make phone too bulky,50,9,train,True,mixed_lexical_cues
+amazon_0186,amazon,186,186,Incredible!.,1,incredible,12,1,validation,False,very_short
+amazon_0464,amazon,464,464,Disappointed!.,0,disappointed,14,1,train,False,very_short
+amazon_0752,amazon,752,752,disappointing.,0,disappointing,14,1,train,False,very_short
+amazon_0778,amazon,778,778,WORTHWHILE.,1,worthwhile,11,1,train,False,very_short
+amazon_0878,amazon,878,878,Excellent!.,1,excellent,11,1,train,False,very_short
+amazon_0994,amazon,994,994,disappointed.,0,disappointed,13,1,train,False,very_short
+imdb_0125,imdb,125,125,Brilliant!  ,1,brilliant,12,1,validation,False,very_short
+imdb_0156,imdb,156,156,Horrible!  ,0,horrible,11,1,validation,False,very_short

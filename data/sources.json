@@ -1,0 +1,20 @@
+[
+  {
+    "file": "sentiment.zip",
+    "url": "https://archive.ics.uci.edu/static/public/331/sentiment+labelled+sentences.zip",
+    "bytes": 84188,
+    "sha256": "afc26626d710899948693e1a61405dce197f57ffa719fa1130d346b4cc095343"
+  },
+  {
+    "file": "annotations.tar.gz",
+    "url": "https://thor.robots.ox.ac.uk/pets/annotations.tar.gz",
+    "bytes": 19173078,
+    "sha256": "52425fb6de5c424942b7626b428656fcbd798db970a937df61750c0f1d358e91"
+  },
+  {
+    "file": "images.tar.gz",
+    "url": "https://thor.robots.ox.ac.uk/pets/images.tar.gz",
+    "bytes": 791918971,
+    "sha256": "67195c5e1c01f1ab5f9b6a5d22b8c27a580d896ece458917e61d459337fa318d"
+  }
+]

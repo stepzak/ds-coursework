@@ -1,0 +1,50 @@
+id,source,line_start,line_end,text,label,normalized,chars,words
+imdb_0126,imdb,126,126,10/10  ,1,10 10,7,2
+imdb_0789,imdb,789,789,10/10  ,1,10 10,7,2
+imdb_0627,imdb,627,627,Avoid at all costs.  ,0,avoid at all costs,21,4
+imdb_0802,imdb,802,802,Avoid at ALL costs!  ,0,avoid at all costs,21,4
+imdb_0091,imdb,91,91,Definitely worth checking out.  ,1,definitely worth checking out,32,4
+imdb_0364,imdb,364,364,Definitely worth checking out.  ,1,definitely worth checking out,32,4
+amazon_0994,amazon,994,994,disappointed.,0,disappointed,13,1
+amazon_0464,amazon,464,464,Disappointed!.,0,disappointed,14,1
+amazon_0749,amazon,749,749,Does not fit.,0,does not fit,13,3
+amazon_0447,amazon,447,447,Does not fit.,0,does not fit,13,3
+amazon_0181,amazon,181,181,Don't buy this product.,0,don t buy this product,23,4
+amazon_0544,amazon,544,544,Don't buy this product.,0,don t buy this product,23,4
+amazon_0269,amazon,269,269,Don't waste your money!.,0,don t waste your money,24,4
+amazon_0983,amazon,983,983,don't waste your money.,0,don t waste your money,23,4
+amazon_0403,amazon,403,403,Excellent product for the price.,1,excellent product for the price,32,5
+amazon_0893,amazon,893,893,Excellent product for the price.,1,excellent product for the price,32,5
+amazon_0286,amazon,286,286,Great phone!.,1,great phone,13,2
+amazon_0897,amazon,897,897,Great phone.,1,great phone,12,2
+amazon_0291,amazon,291,291,Great Phone.,1,great phone,12,2
+amazon_0648,amazon,648,648,Great phone.,1,great phone,12,2
+amazon_0188,amazon,188,188,Great phone!.,1,great phone,13,2
+amazon_0793,amazon,793,793,Great Phone.,1,great phone,12,2
+amazon_0769,amazon,769,769,Great product.,1,great product,14,2
+amazon_0569,amazon,569,569,Great Product.,1,great product,14,2
+yelp_0815,yelp,815,815,I love this place.,1,i love this place,18,4
+yelp_0335,yelp,335,335,I love this place.,1,i love this place,18,4
+yelp_0381,yelp,381,381,I won't be back.,0,i won t be back,16,4
+yelp_0844,yelp,844,844,I won't be back.,0,i won t be back,16,4
+yelp_0506,yelp,506,506,I would not recommend this place.,0,i would not recommend this place,33,6
+yelp_0847,yelp,847,847,I would not recommend this place.,0,i would not recommend this place,33,6
+amazon_0180,amazon,180,180,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0,if you like a loud buzzing to override all your conversations then this phone is for you,90,17
+amazon_0745,amazon,745,745,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0,if you like a loud buzzing to override all your conversations then this phone is for you,90,17
+imdb_0573,imdb,573,573,Not recommended.  ,0,not recommended,18,2
+imdb_0586,imdb,586,586,Not recommended.  ,0,not recommended,18,2
+yelp_0817,yelp,817,817,The food was terrible.,0,the food was terrible,22,4
+yelp_0384,yelp,384,384,The food was terrible.,0,the food was terrible,22,4
+amazon_0393,amazon,393,393,This is a great deal.,1,this is a great deal,21,5
+amazon_0779,amazon,779,779,This is a great deal.,1,this is a great deal,21,5
+amazon_0057,amazon,57,57,VERY DISAPPOINTED.,0,very disappointed,18,2
+amazon_0144,amazon,144,144,very disappointed.,0,very disappointed,18,2
+yelp_0622,yelp,622,622,Very disappointing!!!,0,very disappointing,21,2
+imdb_0106,imdb,106,106,Very disappointing.  ,0,very disappointing,21,2
+amazon_0338,amazon,338,338,Very disappointing.,0,very disappointing,19,2
+yelp_0745,yelp,745,745,Will not be back!,0,will not be back,17,4
+yelp_0447,yelp,447,447,Will not be back.,0,will not be back,17,4
+amazon_0263,amazon,263,263,Works great.,1,works great,12,2
+amazon_0408,amazon,408,408,Works great.,1,works great,12,2
+amazon_0525,amazon,525,525,Works great!.,1,works great,13,2
+amazon_0019,amazon,19,19,Works great!.,1,works great,13,2

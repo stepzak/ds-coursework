@@ -1,0 +1,5 @@
+split,cat,dog
+excluded_test_overlap,6,18
+test,1183,2486
+train,945,1981
+validation,237,493

@@ -1,0 +1,4 @@
+source,file,encoding,physical_lf_lines,records,header,delimiter,unicode_separator_records
+amazon,amazon_cells_labelled.txt,utf-8 (strict),1000,1000,False,TAB,0
+imdb,imdb_labelled.txt,utf-8 (strict),1000,1000,False,TAB,2
+yelp,yelp_labelled.txt,utf-8 (strict),1000,1000,False,TAB,0
