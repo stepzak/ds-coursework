@@ -5,3 +5,24 @@ __pycache__/
 data/raw/
 data/processed/pets_masks/
 .ipynb_checkpoints/
+
+# Local services, exports and later review steps
+/.local-notes/
+/.label-studio-data/
+/annotations/
+/deliverables/
+/data/collected/
+/data/original/
+/reports/annotator1_audit/
+/reports/annotator2_audit/
+/reports/comparison/
+/reports/annotations/
+/reports/*.json
+/reports/*.log
+/reports/annotation_status.md
+/reports/data_expansion_v2.md
+/reports/preparation.md
+.DS_Store
+*.egg-info/
+# Derived from versioned Label Studio RLE exports
+data/processed/handmade/masks/

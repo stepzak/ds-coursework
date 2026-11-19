@@ -1,0 +1,26 @@
+{
+  "stage": "initial",
+  "objects": 156,
+  "paired_accepted": 142,
+  "skip_1": 0,
+  "skip_2": 14,
+  "excluded_any_skip": 14,
+  "agreements": 139,
+  "disagreements": 3,
+  "agreement": 0.9788732394366197,
+  "cohen_kappa": 0.9569957601453665,
+  "confusion_matrix_labels": [
+    0,
+    1
+  ],
+  "confusion_matrix": [
+    [
+      60,
+      3
+    ],
+    [
+      0,
+      79
+    ]
+  ]
+}

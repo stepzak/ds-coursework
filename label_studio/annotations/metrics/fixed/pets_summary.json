@@ -1,0 +1,30 @@
+{
+  "stage": "fixed",
+  "objects": 51,
+  "paired_accepted": 51,
+  "excluded_any_skip": 0,
+  "foreground_macro_iou": 0.9096357192188101,
+  "foreground_macro_dice": 0.9523846765250863,
+  "per_class_mean": {
+    "background": {
+      "iou": 0.9664209440623209,
+      "dice": 0.9825203737308963
+    },
+    "cat": {
+      "iou": 0.9237383247475863,
+      "dice": 0.9602412590756312
+    },
+    "dog": {
+      "iou": 0.8960755215949869,
+      "dice": 0.9448302702264854
+    }
+  },
+  "per_class_defined_objects": {
+    "background": 51,
+    "cat": 25,
+    "dog": 26
+  },
+  "pixel_agreement_mean": 0.9803936065464051,
+  "uncertain_fraction_pooled": 0.020610174284223827,
+  "aggregation": "mean over image/class pairs with nonempty union; both absent excluded"
+}

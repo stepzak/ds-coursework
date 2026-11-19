@@ -1,0 +1,9 @@
+<View>
+  <Header value="Закрасьте видимую область животного по codebook. Незакрашенные пиксели – фон."/>
+  <Image name="image" value="$image" zoom="true" zoomControl="true"/>
+  <BrushLabels name="animal" toName="image">
+    <Label value="Cat" background="#27985b"/>
+    <Label value="Dog" background="#3979cd"/>
+  </BrushLabels>
+  <TextArea name="comment" toName="image" placeholder="Пояснение к границе или причина исключения" rows="3"/>
+</View>
